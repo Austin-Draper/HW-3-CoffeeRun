@@ -2,7 +2,7 @@
   "use strict";
   var FORM_SELECTOR = "[data-coffee-order=\"form\"]";
   var CHECKLIST_SELECTOR = "[data-coffee-order=\"checklist\"]";
-  var PFORM_SELECTOR = "[data-payment-order=\"form\"]";
+  //var PFORM_SELECTOR = "[data-payment-order=\"form\"]";
   var App = window.App;
   var Truck = App.Truck;
   var DataStore = App.DataStore;

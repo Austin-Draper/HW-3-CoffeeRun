@@ -40,7 +40,7 @@
     var $div = $("<div></div>", {
       "data-coffee-order": "checkbox",
       "class": "checkbox"
-    }); //change 'class' to "class" later and see if still works
+    });
 
     var $label = $("<label></label>");
 
